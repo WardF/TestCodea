@@ -22,7 +22,7 @@ function draw()
 
     -- Set stroke and fill color to white
     fill(255,0,0)
-    stroke(222, 83, 83, 255)
+    stroke(222, 83, 83, 200)
 
     -- Update stroke width
     strokeWidth(width)
